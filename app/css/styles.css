@@ -1,8 +1,5 @@
 html, body {
-  height: 100%; }
-
-body {
-  -webkit-font-smoothing: antialiased;
+  height: 100%;
   color: #6c6f7a; }
 
 h1, h2, h3, h4, h5 {
@@ -41,11 +38,10 @@ img {
   max-width: 60rem;
   margin: 0 auto;
   text-align: center; }
-
-#stage-caption h1 {
-  color: white;
-  font-weight: bold;
-  text-transform: uppercase; }
+  #stage-caption h1 {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase; }
 
 .feature-content {
   padding: 8rem 0;
@@ -62,9 +58,9 @@ img {
 .feature-alt {
   background: #f0f0f0; }
 
-#feature-four .feature-content {
+#feature-four {
   padding: 0; }
-  #feature-four .feature-content h6 {
+  #feature-four h6 {
     margin-top: 8rem; }
 
 #feature-five img {
@@ -75,14 +71,12 @@ img {
   color: white;
   padding: 6rem 0;
   font-size: 0.8rem; }
-
-#main-footer h6 {
-  color: #718FA9; }
-
-#main-footer a {
-  color: #6C6F73; }
+  #main-footer h6 {
+    color: #718FA9; }
+  #main-footer a {
+    color: #6C6F73; }
 
 @media screen and (min-width: 991px) {
-  .feature-conten {
+  .feature-content {
     display: flex;
     align-items: center; } }
