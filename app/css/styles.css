@@ -58,10 +58,8 @@ img {
 .feature-alt {
   background: #f0f0f0; }
 
-#feature-four {
+#feature-four .row.feature-content {
   padding: 0; }
-  #feature-four h6 {
-    margin-top: 8rem; }
 
 #feature-five img {
   margin-top: 2rem; }
