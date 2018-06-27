@@ -1,7 +1,5 @@
 # Bài tập Trainee Colombo 2018
-## Bài 1-6 bootstrap 4
-- yêu cầu:
-    - Làm bài thực hành 4-5-6
+## Bài 7-10 bootstrap 
 - Thực hiện bởi __Dương Minh Nam__
 
 ## Liên kết:
